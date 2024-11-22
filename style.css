@@ -12,3 +12,9 @@
     font-size: 20px;
     font-weight: bold;
 }
+
+.reply {
+    color: rgb(84, 84, 233);
+    cursor: pointer;
+    margin-top: 5px;
+}
