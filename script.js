@@ -15,7 +15,7 @@ function createInputBox() {
 }
 
 function addReply(text) {
-    let div = document.createElement("div");]
+    let div = document.createElement("div");
 
     div.setAttribute("class", "all-comment");
 
